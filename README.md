@@ -1,21 +1,25 @@
 # MusicLaunch
 
-The all-in-one desktop app that gives independent musicians the same campaign management tools the major labels use — powered by AI that actually understands the music business.
+A Mac app that helps independent musicians plan and run their releases: campaigns and tasks, social posts, contacts and pitches, budgets, performance numbers and songwriting tools, all on your own Mac.
 
-**[Visit MusicLaunch](https://www.musiclaunchapp.com)** &middot; **[Download the latest release](https://github.com/coderopolis/musiclaunch/releases/latest)**
+**[musiclaunchapp.com](https://www.musiclaunchapp.com)** · **[Download the latest release](https://github.com/coderopolis/musiclaunch/releases/latest)** · **[Help Center](https://www.musiclaunchapp.com/help)**
 
-## About this repo
+## About this repository
 
-This repository hosts the official MusicLaunch desktop app release binaries. Source code is maintained privately by MBG Creative Services LLC.
+This repository hosts the official MusicLaunch downloads, signed and notarized for macOS. The source code is private.
 
-## Latest release
+## Requirements
 
-Download the latest signed and notarized macOS build from the [Releases page](https://github.com/coderopolis/musiclaunch/releases).
+macOS 12 or later, on an Apple silicon or Intel Mac.
+
+## Buying a license
+
+MusicLaunch is a one-time purchase. See [Pricing](https://www.musiclaunchapp.com/pricing).
 
 ## Support
 
-For questions or support, contact [hello@musiclaunchapp.com](mailto:hello@musiclaunchapp.com) or visit [musiclaunchapp.com/help](https://www.musiclaunchapp.com).
+Questions or problems: [hello@musiclaunchapp.com](mailto:hello@musiclaunchapp.com) or the [Help Center](https://www.musiclaunchapp.com/help).
 
 ---
 
-© MBG Creative Services LLC. MusicLaunch™ is a trademark of MBG Creative Services LLC.
+MusicLaunch is sold by MBG Creative Services LLC. © 2026 MBG Creative Services LLC.
